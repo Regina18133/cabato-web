@@ -1,0 +1,68 @@
+
+body {
+    background-image: url('../../../login-register-form/download.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  .card {
+    background-color: #F4E0AF;
+    color: black;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    padding: 30px;
+  }
+
+
+  .card-header {
+    background-color: #dc3545; 
+    color: white;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-bottom: 2px solid white;
+  }
+
+
+  .nav-tabs .nav-link {
+    color: white;
+    border: none;
+  }
+
+  .nav-tabs .nav-link.active {
+    background-color: white;
+    color: #dc3545;
+    border-radius: 8px 8px 0 0;
+  }
+
+ 
+  .form-control {
+    border: 1px solid #dc3545; 
+    border-radius: 4px;
+  }
+
+  .form-control:focus {
+    box-shadow: 0 0 5px rgba(220, 53, 69, 0.5);
+    border-color: #dc3545;
+  }
+
+  .btn-primary {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+
+  .btn-primary:hover {
+    background-color: #b71c1c; 
+  }
+
+  .btn-success {
+    background-color:#dc3545;
+    border-color: red;
+  }
+
+  .btn-success:hover {
+    background-color: #dc3545;
+  }
