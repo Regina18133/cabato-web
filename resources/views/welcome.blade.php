@@ -4,12 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Landing Page</title>
+  <title>Welcome Page</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="../../../welcome-page/assets/img/favicon.png" rel="icon">
+  <link href="../../../welcome-page/assets/img/logo.png" rel="icon">
   <link href="../../../welcome-page/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
@@ -43,7 +43,7 @@
 
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="../../../welcome-page/assets/img/logo.png" alt="">
         <h1 class="sitename">WELCOME</h1>
       </a>
 
@@ -90,21 +90,6 @@
           <div class="col-lg-6">
             <div class="hero-image" data-aos="zoom-out" data-aos-delay="300">
               <img src="../../../welcome-page/assets/img/illustration-1.webp" alt="Hero Image" class="img-fluid">
-
-              <div class="customers-badge">
-                <div class="customer-avatars">
-                  <img src="../../../welcome-page/assets/img/avatar-1.webp" alt="Customer 1" class="avatar">
-                  <img src="../../../welcome-page/assets/img/avatar-2.webp" alt="Customer 2" class="avatar">
-                  <img src="../../../welcome-page/assets/img/avatar-3.webp" alt="Customer 3" class="avatar">
-                  <img src="../../../welcome-page/assets/img/avatar-4.webp" alt="Customer 4" class="avatar">
-                  <img src="../../../welcome-page/assets/img/avatar-5.webp" alt="Customer 5" class="avatar">
-                  <span class="avatar more">12+</span>
-                </div>
-                <p class="mb-0 mt-2">12,000+ lorem ipsum dolor sit amet consectetur adipiscing elit</p>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <div class="row stats-row gy-4 mt-5" data-aos="fade-up" data-aos-delay="500">
           <div class="col-lg-3 col-md-6">
@@ -173,7 +158,7 @@
               <div class="row gy-4">
                 <div class="col-lg-5">
                   <div class="profile d-flex align-items-center gap-3">
-                    <img src="assets/img/avatar-1.webp" alt="CEO Profile" class="profile-image">
+                    <img src="../../../welcome-page/assets/img/avatar-1.webp" alt="CEO Profile" class="profile-image">
                     <div>
                       <h4 class="profile-name">Regina Cabato</h4>
                       <p class="profile-position">CEO &amp; Founder</p>
@@ -265,7 +250,7 @@
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-1.webp" alt="" class="img-fluid">
+                <img src="../../../welcome-page/assets/img/features-illustration-1.webp" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -286,7 +271,7 @@
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-2.webp" alt="" class="img-fluid">
+                <img src="../../../welcome-page/assets/img/features-illustration-2.webp" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -306,7 +291,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-3.webp" alt="" class="img-fluid">
+                <img src="../../../welcome-page/assets/img/features-illustration-3.webp" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -411,7 +396,7 @@
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="phone-mockup text-center">
-              <img src="assets/img/phone-app-screen.webp" alt="Phone Mockup" class="img-fluid">
+              <img src="../../../welcome-page/assets/img/phone-app-screen.webp" alt="Phone Mockup" class="img-fluid">
             </div>
           </div><!-- End Phone Mockup -->
 

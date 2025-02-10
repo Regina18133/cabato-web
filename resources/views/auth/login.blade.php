@@ -28,36 +28,39 @@
           <div class="card-body">
             <div class="tab-content" id="myTabContent">
               <div class="tab-pane fade" id="register" role="tabpanel" aria-labelledby="register-tab">
-                <form>
+                <form method="POST" action= "{{ route('login') }}">
+                  @csrf
+
                   <div class="mb-3">
-                    <label for="registerName" class="form-label">First Name</label>
-                    <input type="text" class="form-control" id="registerName" placeholder="Enter full name">
+                    <label for="registerName" :value="__('registerName')" class="form-label">First Name</label>
+                    <input type="text" class="form-control" id="registerName" :value="old('registerName')" placeholder="Enter full name">
                   </div>
                   <div class="mb-3">
                     <label for="registerName" class="form-label">Last Name</label>
                     <input type="text" class="form-control" id="registerName" placeholder="Enter full name">
                   </div>
                   <div class="mb-3">
-                    <label for="registerEmail" class="form-label">Email Address</label>
-                    <input type="email" class="form-control" id="registerEmail" placeholder="Enter email">
+                    <label for="registerEmail" :value="__('registerEmail')"  class="form-label">Email Address</label>
+                    <input type="email" class="form-control" id="registerEmail" :value="old('registerEmail')" placeholder="Enter email">
                   </div>
                   <div class="mb-3">
-                    <label for="registerPassword" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="registerPassword" placeholder="Create password">
+                    <label for="registerPassword" :value="__('registerPassword')" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="registerPassword" :value="old('registerPassword')" placeholder="Create password">
                   </div>
                   <button type="submit" class="btn btn-success w-100">Register</button>
                 </div>
             </form>
                  
               <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">
-                <form>
+                <form method="POST" action= "{{ url('/login') }}">
+                  @csrf
                   <div class="mb-3">
-                    <label for="loginEmail" class="form-label">Email Address</label>
-                    <input type="email" class="form-control" id="loginEmail" placeholder="Enter email">
+                    <label for="loginEmail" :value="__('loginEmail')" class="form-label">Email Address</label>
+                    <input type="email" class="form-control" id="loginEmail" :value="old('loginPassword')" placeholder="Enter email">
                   </div>
                   <div class="mb-3">
-                    <label for="loginPassword" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="loginPassword" placeholder="Password">
+                    <label for="loginPassword" :value="__('loginPassword')" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="loginPassword" :value="old('loginPassword')" placeholder="Password">
                   </div>
                   <button type="submit" class="btn btn-primary w-100">Log In</button>
                 </form>
