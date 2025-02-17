@@ -73,7 +73,7 @@
 
               <h1 class="mb-4">
                 WELCOME TO <br>
-                OUR WEBSITE <br>
+                MY WEBSITE <br>
                 
               </h1>
 
@@ -98,8 +98,8 @@
                 <i class="bi bi-trophy"></i>
               </div>
               <div class="stat-content">
-                <h4>3x Won Awards</h4>
-                <p class="mb-0">Vestibulum ante ipsum</p>
+                <h4>3x Awards</h4>
+                <p class="mb-0">......</p>
               </div>
             </div>
           </div>
@@ -110,7 +110,7 @@
               </div>
               <div class="stat-content">
                 <h4>6.5k Faucibus</h4>
-                <p class="mb-0">Nullam quis ante</p>
+                <p class="mb-0">.......</p>
               </div>
             </div>
           </div>
@@ -121,7 +121,7 @@
               </div>
               <div class="stat-content">
                 <h4>80k Mauris</h4>
-                <p class="mb-0">Etiam sit amet orci</p>
+                <p class="mb-0">.............</p>
               </div>
             </div>
           </div>
@@ -132,7 +132,7 @@
               </div>
               <div class="stat-content">
                 <h4>6x Phasellus</h4>
-                <p class="mb-0">Vestibulum ante ipsum</p>
+                <p class="mb-0">...........</p>
               </div>
             </div>
           </div>
@@ -201,8 +201,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Features</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>COURSES</h2>
+        <p>At Professional Academy of the Philippines, we go BEYOND the ordinary. Dare to envision the future. Unleash your artistic side.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -567,7 +567,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Clients</p>
+              <p>Students</p>
             </div>
           </div><!-- End Stats Item -->
 
@@ -588,7 +588,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Workers</p>
+              <p>Teachers</p>
             </div>
           </div><!-- End Stats Item -->
 
@@ -603,8 +603,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>COURSES</h2>
+        <p>At Professional Academy of the Philippines, we go BEYOND the ordinary. Dare to envision the future. Unleash your artistic side.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -617,7 +617,7 @@
                 <i class="bi bi-activity"></i>
               </div>
               <div>
-                <h3>Nesciunt Mete</h3>
+                <h3>College of Hospitality Management</h3>
                 <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
                 <a href="service-details.html" class="read-more">Read More <i class="bi bi-arrow-right"></i></a>
               </div>
@@ -630,7 +630,7 @@
                 <i class="bi bi-diagram-3"></i>
               </div>
               <div>
-                <h3>Eosle Commodi</h3>
+                <h3>College of Criminology</h3>
                 <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
                 <a href="service-details.html" class="read-more">Read More <i class="bi bi-arrow-right"></i></a>
               </div>
@@ -643,7 +643,7 @@
                 <i class="bi bi-easel"></i>
               </div>
               <div>
-                <h3>Ledo Markt</h3>
+                <h3>College of Computer Studies</h3>
                 <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
                 <a href="service-details.html" class="read-more">Read More <i class="bi bi-arrow-right"></i></a>
               </div>
@@ -656,7 +656,7 @@
                 <i class="bi bi-clipboard-data"></i>
               </div>
               <div>
-                <h3>Asperiores Commodit</h3>
+                <h3>College of Education</h3>
                 <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
                 <a href="service-details.html" class="read-more">Read More <i class="bi bi-arrow-right"></i></a>
               </div>
